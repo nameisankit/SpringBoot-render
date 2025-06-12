@@ -1,12 +1,5 @@
 target/
-.git
-.gitignore
-Dockerfile
-README.md
-*.log
-*.iml
-*.md
-*.class
+.git/
 .idea/
-.mvn/
-*.sh
+*.iml
+*.log
